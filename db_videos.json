@@ -29,6 +29,21 @@ https://github.com/EddieHubCommunity/...",
             "unlikes": 0
         },
         {
+            "id": 7,
+            "title": "Tailwind CSS Tutorial Bangla - Introduction to Tailwind CSS",
+            "description": "Tailwind is a utility-first CSS framework to rapidly build modern websites without ever leaving your HTML. In this Tailwind CSS tutorial, I have given a short introduction and overview of Tailwind CSS in Bangla language. Also, I have explained, why Tailwind vs Bootstrap debate should be stopped as both are useful in their own ways.",
+            "author": "Learn with Sumit",
+            "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+            "date": "Oct 15, 2021",
+            "duration": "10:12",
+            "views": "2.1k",
+            "link": "https://www.youtube.com/embed/rxl-UaC2-lM?si=8X__JeAVkVf-2XiP",
+            "thumbnail": "https://i3.ytimg.com/vi/smDa6hoxLKI/maxresdefault.jpg",
+            "tags": ["tailwind", "css", "ui"],
+            "likes": 200,
+            "unlikes": 20
+        },
+        {
             "id": 2,
             "title": "VS Code Snippets - Boost your productivity with User Snippets",
             "description": "আমরা যখন Visual Studio Code Editor এ কাজ করি তখন অহরহ ব্যবহৃত কোড ব্লক গুলো আমাদের কে বারবার টাইপ করতে হয় এবং সামগ্রিকভাবে চিন্তা করলে এরকম ছোট ছোট ম্যনুয়াল কাজ আমাদের productivity অনেকাংশেই কমিয়ে দেয়। VS Code এর বিল্ট ইন ইউজার স্নিপেট ফিচারের মাধ্যমে আমরা কমন কাজগুলো স্নিপেট আকারে সাজিয়ে রেখে দিতে পারি এবং শর্টকাট কমান্ডের মাধ্যমে বড় বড় কোড ব্লক গুলো নিয়ে আসতে পারি। এই ভিডিওতে আপনারা এটাই জানতে পারবেন যে কিভাবে আমরা Visual Studio Code Editor এ কাস্টম স্নিপেট লিখতে পারি।",
@@ -58,6 +73,22 @@ https://github.com/EddieHubCommunity/...",
             "likes": 0,
             "unlikes": 0
         },
+        {
+            "id": 7,
+            "title": "Tailwind CSS Tutorial Bangla - Introduction to Tailwind CSS",
+            "description": "Tailwind is a utility-first CSS framework to rapidly build modern websites without ever leaving your HTML. In this Tailwind CSS tutorial, I have given a short introduction and overview of Tailwind CSS in Bangla language. Also, I have explained, why Tailwind vs Bootstrap debate should be stopped as both are useful in their own ways.",
+            "author": "Learn with Sumit",
+            "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+            "date": "Oct 15, 2021",
+            "duration": "10:12",
+            "views": "2.1k",
+            "link": "https://www.youtube.com/embed/rxl-UaC2-lM?si=8X__JeAVkVf-2XiP",
+            "thumbnail": "https://i3.ytimg.com/vi/smDa6hoxLKI/maxresdefault.jpg",
+            "tags": ["tailwind", "css", "ui"],
+            "likes": 200,
+            "unlikes": 20
+        }
+        ,
         {
             "id": 4,
             "title": "Debounce Function in JavaScript - JavaScript Job Interview question",
@@ -103,21 +134,6 @@ https://github.com/EddieHubCommunity/...",
             "likes": 800,
             "unlikes":80
         },
-        {
-            "id": 7,
-            "title": "How to upload code/file in GitHub using git from A to Z in 2021",
-            "description": "Tailwind is a utility-first CSS framework to rapidly build modern websites without ever leaving your HTML. In this Tailwind CSS tutorial, I have given a short introduction and overview of Tailwind CSS in Bangla language. Also, I have explained, why Tailwind vs Bootstrap debate should be stopped as both are useful in their own ways.",
-            "author": "Learn with Sumit",
-            "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
-            "date": "Oct 15, 2021",
-            "duration": "10:12",
-            "views": "2.1k",
-            "link": "https://www.youtube.com/embed/rxl-UaC2-lM?si=8X__JeAVkVf-2XiP",
-            "thumbnail": "https://i3.ytimg.com/vi/smDa6hoxLKI/maxresdefault.jpg",
-            "tags": ["tailwind", "css", "ui"],
-            "likes": 200,
-            "unlikes": 20
-        }
     ],
     "tags": [
         {
